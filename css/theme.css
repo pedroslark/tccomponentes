@@ -1616,6 +1616,7 @@ transform: rotate(-45deg);
 }
 #contact-section .btn-blank:hover {
 	color: #fff;
+	box-shadow: 0px 0px 1em #fff;
 }
 /* ===== End contact ===== */
 

@@ -30,7 +30,9 @@
 /* background-color hover */
 .btn-main:hover,
 .featured-box .get-started .btn:hover {
-	background-color: #848484;
+	box-shadow: 0px 0px 1em #fff;
+	background-color: #fff;
+	color: #003620;
 }
 
 
